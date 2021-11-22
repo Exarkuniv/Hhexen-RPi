@@ -6,4 +6,6 @@ Hexen port GL version ( i think )
 
 I belive this is a GL port for Heretic. Im just going off what I find on the source page.
 
-wget https://raw.githubusercontent.com/Exarkuniv/Hheretic-RPi/Master/hheretic.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+```
+wget https://raw.githubusercontent.com/Exarkuniv/Hhexen-RPi/Master/hhexen.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+```
